@@ -11,7 +11,7 @@
       <li>Provides visual feedback by drawing landmarks and lines on the webcam feed.</li>
       <li>Can be easily customized and integrated into existing applications.</li>
   </ul>
-
+  <img src="hg1.png"  alt="Project Screenshot">
   <h2>Dependencies</h2>
   <ul>
       <li>OpenCV (cv2): A popular library for computer vision tasks.</li>
